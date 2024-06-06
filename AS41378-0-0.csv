@@ -1,7 +1,5 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-38.59.241.86,60999,80,false,SJC,North America,San Jose,193,2.64
 38.59.230.134,42490,443,true,AMS,Europe,Amsterdam,209,1.75
 38.59.224.166,29319,443,true,LHR,Europe,London,230,0.35
-82.115.31.92,32092,80,false,FRA,Europe,Frankfurt,220,0.00
 185.217.108.43,4034,2053,true,FRA,Europe,Frankfurt,236,0.00
 38.59.244.40,21010,443,true,SJC,North America,San Jose,242,0.00
