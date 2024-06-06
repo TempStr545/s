@@ -1,0 +1,110 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+18.194.180.78,443,443,true,FRA,Europe,Frankfurt,170,5.70
+54.183.80.85,8443,443,true,SJC,North America,San Jose,183,5.65
+3.121.56.114,2087,443,true,FRA,Europe,Frankfurt,177,3.68
+3.126.37.75,443,443,true,FRA,Europe,Frankfurt,169,2.89
+18.198.4.243,8443,443,true,FRA,Europe,Frankfurt,172,2.74
+13.42.158.50,8443,443,true,LHR,Europe,London,177,2.53
+3.98.54.22,8443,443,true,YYZ,North America,Toronto,260,2.14
+13.51.48.84,2096,443,true,ARN,Europe,Stockholm,177,2.01
+18.130.70.64,2087,443,true,LHR,Europe,London,188,1.87
+34.251.238.251,443,443,true,DUB,Europe,Dublin,233,1.71
+54.78.94.139,2083,443,true,DUB,Europe,Dublin,215,1.61
+3.126.221.11,2053,443,true,FRA,Europe,Frankfurt,172,1.55
+54.216.40.130,8443,443,true,DUB,Europe,Dublin,193,1.12
+54.73.101.166,2053,443,true,DUB,Europe,Dublin,218,1.04
+18.184.10.228,2053,443,true,FRA,Europe,Frankfurt,165,0.84
+18.216.55.100,443,443,true,ORD,North America,Chicago,248,0.67
+16.171.116.5,443,443,true,OSL,Europe,Oslo,169,0.63
+52.74.101.26,443,443,true,SIN,Asia Pacific,Singapore,69,0.56
+3.23.238.192,80,80,false,ORD,North America,Chicago,243,0.53
+15.237.207.46,2096,443,true,CDG,Europe,Paris,189,0.48
+54.229.195.253,8443,443,true,DUB,Europe,Dublin,184,0.47
+54.193.196.243,443,443,true,SJC,North America,San Jose,182,0.42
+13.37.32.97,8443,443,true,CDG,Europe,Paris,186,0.41
+15.237.207.46,2053,443,true,CDG,Europe,Paris,198,0.39
+52.38.230.144,8443,443,true,SEA,North America,Seattle,216,0.34
+52.52.116.32,443,443,true,SJC,North America,San Jose,202,0.33
+18.157.158.0,443,443,true,FRA,Europe,Frankfurt,168,0.31
+3.253.210.158,2053,443,true,DUB,Europe,Dublin,196,0.30
+3.255.85.120,8443,443,true,DUB,Europe,Dublin,219,0.29
+54.233.182.187,443,443,true,GRU,South America,São Paulo,353,0.28
+3.18.240.45,443,443,true,ORD,North America,Chicago,236,0.25
+35.83.185.225,443,443,true,SEA,North America,Seattle,223,0.20
+15.228.157.181,443,443,true,GRU,South America,São Paulo,369,0.15
+54.186.162.233,8443,443,true,SEA,North America,Seattle,230,0.15
+18.223.255.25,443,443,true,NRT,Asia Pacific,Tokyo,221,0.08
+18.194.183.74,8443,443,true,FRA,Europe,Frankfurt,186,0.07
+18.184.55.249,443,443,true,FRA,Europe,Frankfurt,158,0.04
+15.164.104.224,8080,80,false,ICN,Asia Pacific,Seoul,95,0.00
+3.96.199.75,443,443,false,YUL,North America,Montréal,256,0.00
+18.195.205.127,80,80,false,FRA,Europe,Frankfurt,157,0.00
+204.110.220.172,80,443,true,SEA,North America,Seattle,215,0.00
+204.110.221.233,80,443,true,SEA,North America,Seattle,218,0.00
+44.226.147.29,443,443,true,SEA,North America,Seattle,192,0.00
+204.110.223.58,443,443,true,ORD,North America,Chicago,225,0.00
+204.110.221.230,80,443,true,SEA,North America,Seattle,225,0.00
+204.110.223.221,80,443,true,ORD,North America,Chicago,235,0.00
+204.110.223.1,80,443,true,ORD,North America,Chicago,226,0.00
+67.226.222.61,80,443,true,ORD,North America,Chicago,218,0.00
+204.110.221.54,80,443,true,SEA,North America,Seattle,225,0.00
+204.110.220.148,80,443,true,SEA,North America,Seattle,212,0.00
+67.226.222.188,80,443,true,ORD,North America,Chicago,247,0.00
+204.110.223.236,80,443,true,ORD,North America,Chicago,246,0.00
+204.110.221.76,80,443,true,SEA,North America,Seattle,218,0.00
+204.110.220.94,80,443,true,SEA,North America,Seattle,194,0.00
+204.110.221.232,80,443,true,SEA,North America,Seattle,232,0.00
+67.226.222.139,80,443,true,ORD,North America,Chicago,231,0.00
+67.226.222.151,80,443,true,ORD,North America,Chicago,253,0.00
+67.226.222.212,80,443,true,ORD,North America,Chicago,244,0.00
+67.226.223.240,80,443,true,ORD,North America,Chicago,253,0.00
+67.226.222.2,443,443,true,ORD,North America,Chicago,263,0.00
+67.226.222.191,80,443,true,ORD,North America,Chicago,268,0.00
+204.110.220.204,80,443,true,SEA,North America,Seattle,216,0.00
+18.116.114.9,443,443,true,ORD,North America,Chicago,225,0.00
+67.226.222.189,80,443,true,ORD,North America,Chicago,254,0.00
+3.98.73.243,443,443,true,YUL,North America,Montréal,277,0.00
+35.167.93.200,80,443,true,SEA,North America,Seattle,222,0.00
+3.101.110.90,80,443,true,SJC,North America,San Jose,184,0.00
+204.110.220.241,80,443,true,SEA,North America,Seattle,222,0.00
+35.178.149.161,8443,8443,true,LHR,Europe,London,196,0.00
+99.80.88.225,443,443,true,DUB,Europe,Dublin,183,0.00
+52.209.63.185,80,443,true,DUB,Europe,Dublin,204,0.00
+67.226.222.179,80,443,true,ORD,North America,Chicago,222,0.00
+52.10.78.7,443,443,true,SEA,North America,Seattle,215,0.00
+204.110.221.74,80,443,true,SEA,North America,Seattle,213,0.00
+52.89.138.13,443,443,true,SEA,North America,Seattle,215,0.00
+204.110.223.178,80,443,true,ORD,North America,Chicago,231,0.00
+204.110.220.214,80,443,true,SEA,North America,Seattle,215,0.00
+54.151.68.167,443,443,true,SJC,North America,San Jose,172,0.00
+63.33.209.175,80,443,true,DUB,Europe,Dublin,233,0.00
+204.110.223.76,80,443,true,ORD,North America,Chicago,265,0.00
+44.227.22.10,443,443,true,SEA,North America,Seattle,208,0.00
+204.110.223.239,80,443,true,ORD,North America,Chicago,253,0.00
+52.197.230.94,443,443,true,NRT,Asia Pacific,Tokyo,92,0.00
+13.56.207.185,80,443,true,SJC,North America,San Jose,176,0.00
+35.157.240.237,443,443,true,FRA,Europe,Frankfurt,191,0.00
+204.236.186.113,80,443,true,SJC,North America,San Jose,202,0.00
+204.110.223.41,80,443,true,ORD,North America,Chicago,224,0.00
+204.110.221.17,80,443,true,SEA,North America,Seattle,195,0.00
+13.56.59.26,80,443,true,SJC,North America,San Jose,177,0.00
+54.212.77.119,80,443,true,SEA,North America,Seattle,220,0.00
+204.110.221.197,80,443,true,SEA,North America,Seattle,229,0.00
+67.226.222.100,80,443,true,ORD,North America,Chicago,239,0.00
+67.226.222.110,80,443,true,ORD,North America,Chicago,261,0.00
+18.236.13.188,443,443,true,SEA,North America,Seattle,219,0.00
+204.110.220.50,80,443,true,SEA,North America,Seattle,204,0.00
+204.110.221.133,80,443,true,SEA,North America,Seattle,190,0.00
+204.110.220.12,443,443,true,SEA,North America,Seattle,220,0.00
+204.110.221.102,80,443,true,SEA,North America,Seattle,196,0.00
+204.110.220.219,80,443,true,SEA,North America,Seattle,215,0.00
+204.110.221.177,80,443,true,SEA,North America,Seattle,215,0.00
+204.110.221.104,80,443,true,SEA,North America,Seattle,208,0.00
+204.110.220.134,80,443,true,SEA,North America,Seattle,204,0.00
+13.56.251.164,80,443,true,SJC,North America,San Jose,176,0.00
+54.153.96.188,80,443,true,SJC,North America,San Jose,199,0.00
+52.8.58.114,443,443,true,SJC,North America,San Jose,208,0.00
+204.110.220.169,80,443,true,SEA,North America,Seattle,202,0.00
+175.41.130.169,443,443,true,SIN,Asia Pacific,Singapore,72,0.00
+54.193.109.100,80,443,true,SJC,North America,San Jose,208,0.00
+204.110.220.107,80,443,true,SEA,North America,Seattle,190,0.00

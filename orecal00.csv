@@ -1,0 +1,51 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+213.35.115.68,443,443,true,SIN,Asia Pacific,Singapore,208,3.55
+141.148.242.63,443,443,true,FRA,Europe,Frankfurt,170,2.60
+141.144.206.0,443,443,true,FRA,Europe,Frankfurt,189,2.27
+89.168.95.201,443,443,true,FRA,Europe,Frankfurt,163,1.98
+146.56.162.25,80,80,false,ICN,Asia Pacific,Seoul,74,1.91
+143.47.247.10,443,443,true,FRA,Europe,Frankfurt,199,1.81
+158.180.42.174,443,443,true,FRA,Europe,Frankfurt,161,1.67
+141.147.1.138,443,443,true,FRA,Europe,Frankfurt,161,1.58
+146.235.199.98,443,443,true,SJC,North America,San Jose,182,1.57
+152.70.62.125,443,443,true,FRA,Europe,Frankfurt,176,1.55
+158.101.175.51,2053,443,true,FRA,Europe,Frankfurt,176,1.47
+141.147.111.8,443,443,true,FRA,Europe,Frankfurt,176,1.47
+158.101.204.43,443,443,true,FRA,Europe,Frankfurt,177,1.28
+158.180.66.167,443,443,true,SIN,Asia Pacific,Singapore,195,1.22
+130.162.213.242,443,443,true,FRA,Europe,Frankfurt,171,1.18
+132.145.15.68,443,443,true,FRA,Europe,Frankfurt,194,1.13
+144.24.83.39,443,443,true,ICN,Asia Pacific,Seoul,116,1.07
+141.148.229.106,443,443,true,AMS,Europe,Amsterdam,186,0.94
+143.47.236.30,443,443,true,FRA,Europe,Frankfurt,203,0.92
+146.56.114.29,443,443,true,SIN,Asia Pacific,Singapore,177,0.88
+143.47.177.51,443,443,true,FRA,Europe,Frankfurt,165,0.81
+150.136.241.40,8443,443,true,IAD,North America,Ashburn,240,0.77
+144.21.57.69,443,443,true,FRA,Europe,Frankfurt,198,0.77
+141.148.224.44,443,443,true,FRA,Europe,Frankfurt,170,0.75
+146.56.157.246,443,443,true,NRT,Asia Pacific,Tokyo,71,0.72
+84.8.156.15,443,443,true,FRA,Europe,Frankfurt,189,0.72
+140.83.57.116,8443,80,false,KIX,Asia Pacific,Osaka,298,0.68
+138.2.183.171,443,443,true,FRA,Europe,Frankfurt,253,0.62
+130.162.172.170,443,443,true,FRA,Europe,Frankfurt,190,0.52
+158.179.176.224,8443,443,true,NRT,Asia Pacific,Tokyo,223,0.49
+138.2.135.38,443,443,true,FRA,Europe,Frankfurt,276,0.47
+138.2.134.89,443,443,true,FRA,Europe,Frankfurt,241,0.45
+140.238.29.117,443,80,false,NRT,Asia Pacific,Tokyo,67,0.41
+84.235.161.180,443,443,true,FRA,Europe,Frankfurt,185,0.36
+140.238.158.238,8080,443,true,YYZ,North America,Toronto,268,0.36
+158.101.216.83,443,443,true,FRA,Europe,Frankfurt,177,0.34
+143.47.243.144,8443,443,true,LHR,Europe,London,176,0.30
+150.230.116.125,443,443,true,FRA,Europe,Frankfurt,183,0.24
+141.147.73.192,443,443,true,FRA,Europe,Frankfurt,179,0.13
+168.138.171.185,8443,443,true,SIN,Asia Pacific,Singapore,310,0.12
+138.2.67.178,8080,443,true,SIN,Asia Pacific,Singapore,62,0.12
+129.159.84.71,443,443,true,IAD,North America,Ashburn,240,0.12
+140.238.148.104,443,443,true,YYZ,North America,Toronto,241,0.08
+152.70.48.222,443,443,true,FRA,Europe,Frankfurt,240,0.00
+84.8.154.114,443,443,true,FRA,Europe,Frankfurt,177,0.00
+152.69.178.16,443,443,true,MEL,Oceania,Melbourne,397,0.00
+141.147.147.28,443,443,true,KIX,Asia Pacific,Osaka,286,0.00
+213.35.98.64,443,443,true,SIN,Asia Pacific,Singapore,179,0.00
+193.122.101.68,2083,2083,true,ICN,Asia Pacific,Seoul,71,0.00
+159.13.46.42,443,443,true,SYD,Oceania,Sydney,318,0.00

@@ -1,0 +1,68 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+20.39.191.103,443,443,true,ICN,Asia Pacific,Seoul,132,6.99
+4.255.56.138,80,80,false,IAD,North America,Ashburn,261,3.03
+51.107.8.47,8443,443,true,MXP,Europe,Milan,243,2.54
+104.40.244.228,443,443,true,AMS,Europe,Amsterdam,253,2.51
+4.211.159.252,2087,443,true,CDG,Europe,Paris,253,2.20
+98.66.177.23,8443,443,true,CDG,Europe,Paris,248,2.02
+4.233.216.198,2053,443,true,CDG,Europe,Paris,256,1.93
+51.107.9.31,8443,443,true,MXP,Europe,Milan,252,1.81
+51.107.11.76,8443,443,true,MXP,Europe,Milan,245,1.77
+51.116.121.25,2053,443,true,FRA,Europe,Frankfurt,247,1.49
+4.176.21.17,8443,443,true,CDG,Europe,Paris,254,1.44
+51.124.191.125,8443,443,true,AMS,Europe,Amsterdam,257,1.26
+20.42.85.175,2053,443,true,IAD,North America,Ashburn,259,1.23
+172.190.150.25,8443,443,true,IAD,North America,Ashburn,261,1.13
+20.33.30.36,2083,443,true,LAX,North America,Los Angeles,245,1.12
+20.79.165.148,443,443,true,FRA,Europe,Frankfurt,272,1.10
+51.103.217.230,8443,443,true,MXP,Europe,Milan,248,1.07
+4.242.220.94,8080,443,true,SJC,North America,San Jose,246,1.01
+4.182.85.149,2087,443,true,FRA,Europe,Frankfurt,249,0.88
+20.90.163.76,2053,443,true,LHR,Europe,London,265,0.84
+51.116.121.25,8443,443,true,FRA,Europe,Frankfurt,251,0.79
+52.165.82.62,443,443,true,ORD,North America,Chicago,246,0.76
+20.119.73.200,80,80,false,IAD,North America,Ashburn,247,0.72
+4.182.107.151,443,443,true,FRA,Europe,Frankfurt,252,0.62
+20.174.38.54,8880,443,true,BOM,Asia Pacific,Mumbai,141,0.58
+4.232.128.211,2053,443,true,VIE,Europe,Vienna,251,0.52
+20.170.41.153,443,443,true,FRA,Europe,Frankfurt,257,0.47
+20.108.51.255,443,443,true,LHR,Europe,London,268,0.45
+4.233.223.103,2083,443,true,CDG,Europe,Paris,247,0.37
+20.46.56.203,8443,443,true,BOM,Asia Pacific,Mumbai,146,0.37
+20.47.95.148,8443,443,true,BOM,Asia Pacific,Mumbai,143,0.37
+20.174.10.181,2053,443,true,BOM,Asia Pacific,Mumbai,148,0.35
+20.62.202.159,443,443,true,IAD,North America,Ashburn,261,0.31
+98.66.205.166,2083,443,true,CDG,Europe,Paris,245,0.28
+4.185.171.220,8443,443,true,FRA,Europe,Frankfurt,251,0.27
+20.218.224.219,2053,443,true,FRA,Europe,Frankfurt,261,0.27
+20.174.10.181,8443,443,true,BOM,Asia Pacific,Mumbai,149,0.26
+98.66.193.189,2053,443,true,CDG,Europe,Paris,256,0.25
+51.124.191.125,2053,443,true,AMS,Europe,Amsterdam,255,0.25
+4.185.171.220,2053,443,true,FRA,Europe,Frankfurt,259,0.24
+20.215.201.225,8080,443,true,VIE,Europe,Vienna,287,0.22
+4.176.2.46,8080,443,true,CDG,Europe,Paris,243,0.20
+51.103.217.239,2053,443,true,MXP,Europe,Milan,247,0.19
+4.207.97.178,8443,443,true,DUB,Europe,Dublin,254,0.19
+51.120.5.42,2053,443,true,CPH,Europe,Copenhagen,264,0.19
+13.87.92.42,443,443,true,LHR,Europe,London,276,0.18
+51.107.10.31,8443,443,true,MXP,Europe,Milan,247,0.17
+20.201.124.249,2083,443,true,GRU,South America,São Paulo,356,0.14
+51.103.217.239,8443,443,true,MXP,Europe,Milan,247,0.10
+51.136.161.115,8443,443,true,AMS,Europe,Amsterdam,258,0.07
+172.207.125.150,443,443,true,NRT,Asia Pacific,Tokyo,99,0.04
+172.208.44.21,443,443,true,IAD,North America,Ashburn,271,0.03
+4.239.242.189,80,80,false,YYZ,North America,Toronto,258,0.00
+4.239.242.189,443,80,false,YYZ,North America,Toronto,269,0.00
+20.151.238.232,443,443,true,YYZ,North America,Toronto,254,0.00
+20.14.93.89,2053,8443,true,LAX,North America,Los Angeles,182,0.00
+51.140.44.206,2086,2086,false,LHR,Europe,London,247,0.00
+20.58.24.221,2086,2086,false,LHR,Europe,London,261,0.00
+51.107.13.98,2053,443,true,MXP,Europe,Milan,255,0.00
+51.140.154.44,2086,2086,false,LHR,Europe,London,256,0.00
+20.31.76.102,443,443,true,AMS,Europe,Amsterdam,282,0.00
+74.249.233.213,443,443,true,ORD,North America,Chicago,257,0.00
+40.82.159.134,443,443,true,ICN,Asia Pacific,Seoul,131,0.00
+20.235.105.146,443,443,true,BOM,Asia Pacific,Mumbai,140,0.00
+98.70.26.236,443,443,true,BOM,Asia Pacific,Mumbai,106,0.00
+20.246.144.214,443,443,true,IAD,North America,Ashburn,245,0.00
+20.221.32.145,443,443,true,ORD,North America,Chicago,190,0.00
